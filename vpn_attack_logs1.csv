@@ -1,0 +1,818 @@
+Source IP,Destination IP,Protocol,Src Port,Dst Port,VPN Status,Attack Warning
+192.168.1.5,104.46.162.227,TCP,55959,443,Unknown,None
+192.168.1.5,208.95.112.1,TCP,55962,80,Unknown,None
+104.46.162.227,192.168.1.5,TCP,443,55959,"✅ Normal IP - ISP: Microsoft Corporation, Country: Australia",None
+192.168.1.5,104.46.162.227,TCP,55959,443,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55962,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55962,80,Unknown,None
+192.168.1.5,208.95.112.1,TCP,55962,80,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55962,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55962,80,Unknown,None
+192.168.1.5,208.95.112.1,TCP,55962,80,Unknown,None
+192.168.1.5,208.95.112.1,TCP,55963,80,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55962,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55962,80,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55963,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55963,80,Unknown,None
+192.168.1.5,208.95.112.1,TCP,55963,80,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55963,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55963,80,Unknown,None
+192.168.1.5,208.95.112.1,TCP,55963,80,Unknown,None
+192.168.1.5,208.95.112.1,TCP,55964,80,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55964,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55964,80,Unknown,None
+192.168.1.5,208.95.112.1,TCP,55964,80,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55963,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55963,80,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55964,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55964,80,Unknown,None
+192.168.1.5,208.95.112.1,TCP,55964,80,Unknown,None
+192.168.1.5,208.95.112.1,TCP,55965,80,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55964,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55964,80,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55965,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55965,80,Unknown,None
+192.168.1.5,208.95.112.1,TCP,55965,80,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55965,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55965,80,Unknown,None
+192.168.1.5,208.95.112.1,TCP,55965,80,Unknown,None
+192.168.1.5,208.95.112.1,TCP,55966,80,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55965,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+208.95.112.1,192.168.1.5,TCP,80,55966,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55965,80,Unknown,None
+192.168.1.5,208.95.112.1,TCP,55966,80,Unknown,None
+192.168.1.5,208.95.112.1,TCP,55966,80,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55966,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55966,80,Unknown,None
+192.168.1.5,208.95.112.1,TCP,55966,80,Error,None
+192.168.1.5,208.95.112.1,TCP,55967,80,Error,None
+208.95.112.1,192.168.1.5,TCP,80,55966,Error,None
+192.168.1.5,208.95.112.1,TCP,55966,80,Error,None
+208.95.112.1,192.168.1.5,TCP,80,55967,Error,None
+192.168.1.5,208.95.112.1,TCP,55967,80,Error,None
+192.168.1.5,208.95.112.1,TCP,55967,80,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55967,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55967,80,Unknown,None
+192.168.1.5,208.95.112.1,TCP,55967,80,Unknown,None
+192.168.1.5,208.95.112.1,TCP,55968,80,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55967,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55967,80,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55968,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55968,80,Unknown,None
+192.168.1.5,208.95.112.1,TCP,55968,80,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55968,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55968,80,Unknown,None
+192.168.1.5,208.95.112.1,TCP,55968,80,Unknown,None
+192.168.1.5,208.95.112.1,TCP,55969,80,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55969,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55969,80,Unknown,None
+192.168.1.5,208.95.112.1,TCP,55969,80,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55968,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55968,80,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55969,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55969,80,Error,None
+192.168.1.5,208.95.112.1,TCP,55969,80,Unknown,None
+192.168.1.5,208.95.112.1,TCP,55970,80,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55969,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+208.95.112.1,192.168.1.5,TCP,80,55970,Error,None
+192.168.1.5,208.95.112.1,TCP,55969,80,Unknown,🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55970,80,Unknown,🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55970,80,Unknown,🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,55970,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55970,80,Unknown,🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55970,80,Unknown,🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55971,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55970,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55970,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55971,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55971,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55971,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55971,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55971,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55971,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55972,80,Error,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55971,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55971,80,Error,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55972,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55972,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55972,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55972,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55972,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55972,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55973,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55972,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55972,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55973,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55973,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55973,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55973,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55973,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55973,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55974,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55973,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55973,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55974,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55974,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55974,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55971,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55971,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55974,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55974,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55974,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55975,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55974,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55974,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55975,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55975,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55975,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55975,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55975,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55975,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55976,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.4,192.168.1.255,UDP,57621,57621,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55975,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55975,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55976,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55976,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55976,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55976,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55976,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55976,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55977,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55976,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55976,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55977,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55977,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55977,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55977,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55977,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55977,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55978,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.1,192.168.1.255,UDP,40836,9995,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55977,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55977,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55978,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",None
+192.168.1.5,208.95.112.1,TCP,55978,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55978,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55978,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55978,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55978,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55979,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55978,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,55979,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55978,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55979,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55979,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55979,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55979,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55979,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55980,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.4,224.0.0.251,UDP,5353,5353,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55979,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55979,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55980,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,55977,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55980,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55977,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55980,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55980,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55980,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55980,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55981,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55981,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,55980,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55981,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55981,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55980,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55981,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55981,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55981,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55982,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55981,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55981,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55982,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55982,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55982,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55982,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55982,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55982,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55983,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55983,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,55982,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55983,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55983,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55982,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55983,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55983,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55983,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55984,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55983,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55983,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55984,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55984,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55984,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55984,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55984,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55984,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55985,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55984,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55984,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55985,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55985,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55985,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55985,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55985,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55985,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55986,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55985,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55985,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55986,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55986,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55986,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55986,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55986,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55986,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55987,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55986,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55986,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55987,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55987,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55987,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55987,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55987,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55987,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55988,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55987,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55987,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55988,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55988,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55988,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55988,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55988,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55988,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55988,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55988,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55989,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55988,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,55988,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,55989,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55988,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55989,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55989,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55989,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55989,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55989,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55990,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55989,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55989,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55990,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55990,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55990,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55990,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55990,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55990,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55991,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55991,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55991,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55991,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55990,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55990,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55991,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55991,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55991,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55992,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.1,192.168.1.255,UDP,40836,9995,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55992,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55992,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55992,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55992,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55992,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55992,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55993,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55993,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55993,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55993,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55992,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55992,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55991,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55993,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,55991,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,55991,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55993,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55991,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55993,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55994,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55993,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55993,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55994,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55994,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55994,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.1,224.0.0.1,Other,N/A,N/A,Unknown,None
+192.168.1.1,224.0.0.1,Other,N/A,N/A,Unknown,None
+192.168.1.1,224.0.0.1,Other,N/A,N/A,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55994,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55994,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55994,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55995,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55994,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55994,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55995,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55995,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55995,80,Error,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55995,Error,🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55995,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55995,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55996,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,224.0.0.251,UDP,5353,5353,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55996,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55996,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55996,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55996,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55996,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55996,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55997,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55995,80,Unknown,🚨 Possible Port Scan Detected!
+0.0.0.0,255.255.255.255,UDP,68,67,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,55997,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,55996,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,55995,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55997,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55997,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55996,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,17.253.61.196,TCP,53391,443,Unknown,🚨 Possible Port Scan Detected!
+17.253.61.196,192.168.1.5,TCP,443,53391,"✅ Normal IP - ISP: Apple Inc., Country: Singapore",None
+192.168.1.5,17.253.61.196,TCP,53391,443,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,17.253.61.196,TCP,53391,443,Unknown,🚨 Possible Port Scan Detected!
+17.253.61.196,192.168.1.5,TCP,443,53391,"✅ Normal IP - ISP: Apple Inc., Country: Singapore",None
+17.253.61.196,192.168.1.5,TCP,443,53391,"✅ Normal IP - ISP: Apple Inc., Country: Singapore",None
+17.253.61.196,192.168.1.5,TCP,443,53391,"✅ Normal IP - ISP: Apple Inc., Country: Singapore",None
+17.253.61.196,192.168.1.5,TCP,443,53391,"✅ Normal IP - ISP: Apple Inc., Country: Singapore",None
+17.253.61.196,192.168.1.5,TCP,443,53391,"✅ Normal IP - ISP: Apple Inc., Country: Singapore",None
+17.253.61.196,192.168.1.5,TCP,443,53391,"✅ Normal IP - ISP: Apple Inc., Country: Singapore",None
+192.168.1.5,17.253.61.196,TCP,53391,443,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,17.253.61.196,TCP,53391,443,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,17.253.61.196,TCP,53391,443,Unknown,🚨 Possible Port Scan Detected!
+17.253.61.196,192.168.1.5,TCP,443,53391,"✅ Normal IP - ISP: Apple Inc., Country: Singapore",None
+192.168.1.5,17.253.61.196,TCP,53391,443,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,17.253.61.196,TCP,53391,443,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55997,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+17.253.61.196,192.168.1.5,TCP,443,53391,"✅ Normal IP - ISP: Apple Inc., Country: Singapore",None
+192.168.1.5,17.253.61.196,TCP,53391,443,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55997,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55997,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55997,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55998,80,Unknown,🚨 Possible Port Scan Detected!
+17.253.61.196,192.168.1.5,TCP,443,53391,"✅ Normal IP - ISP: Apple Inc., Country: Singapore",None
+208.95.112.1,192.168.1.5,TCP,80,55997,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55997,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55998,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55998,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55998,80,Error,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55998,Error,🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55998,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55998,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55999,80,Error,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55998,Error,🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55998,80,Error,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55999,Error,🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55999,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55999,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55999,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55999,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,55999,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56000,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55999,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55999,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56000,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56000,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56000,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56000,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56000,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56000,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56001,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56000,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56000,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56001,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56001,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56001,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56001,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56001,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56001,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56002,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,55999,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,55999,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56002,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,56001,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56002,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56002,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56001,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56002,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56002,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56002,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56003,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56002,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56002,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56003,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56003,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56003,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56003,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,56003,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56003,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56003,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56004,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56004,Error,🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56004,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56004,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56003,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56003,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56004,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56004,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56004,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56005,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.1,192.168.1.255,UDP,40836,9995,Unknown,None
+192.168.1.11,224.0.0.251,UDP,5353,5353,Unknown,None
+192.168.1.11,224.0.0.251,UDP,5353,5353,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,56004,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56004,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56005,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56005,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56005,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56005,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56005,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56005,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56006,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56005,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56005,80,Error,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56006,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56006,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56006,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56006,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56006,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56006,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56007,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56006,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56006,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56007,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56007,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56007,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56007,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56007,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.11,224.0.0.251,UDP,5353,5353,Unknown,None
+192.168.1.11,224.0.0.251,UDP,5353,5353,Unknown,None
+192.168.1.11,192.168.1.255,UDP,137,137,Unknown,None
+192.168.1.11,192.168.1.255,UDP,137,137,Unknown,None
+192.168.1.11,192.168.1.255,UDP,137,137,Unknown,None
+192.168.1.5,208.95.112.1,TCP,56007,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.11,192.168.1.255,UDP,137,137,Unknown,None
+192.168.1.11,192.168.1.255,UDP,137,137,Unknown,None
+192.168.1.11,224.0.0.251,UDP,5353,5353,Unknown,None
+192.168.1.5,17.248.239.65,TCP,53390,443,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,17.248.239.65,TCP,53390,443,Error,🚨 Possible Port Scan Detected!
+17.248.239.65,192.168.1.5,TCP,443,53390,Error,None
+192.168.1.5,17.248.239.65,TCP,53390,443,Error,🚨 Possible Port Scan Detected!
+192.168.1.11,192.168.1.255,UDP,137,137,Error,None
+192.168.1.11,192.168.1.255,UDP,137,137,Error,None
+192.168.1.11,192.168.1.255,UDP,137,137,Error,None
+192.168.1.4,224.0.0.251,UDP,5353,5353,Error,None
+192.168.1.11,192.168.1.255,UDP,137,137,Error,None
+192.168.1.11,192.168.1.255,UDP,137,137,Error,None
+192.168.1.11,192.168.1.255,UDP,137,137,Error,None
+192.168.1.11,224.0.0.251,UDP,5353,5353,Error,None
+192.168.1.11,224.0.0.251,UDP,5353,5353,Error,None
+192.168.1.5,208.95.112.1,TCP,56007,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56007,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56008,80,Error,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56008,Error,🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56008,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56008,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56008,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56008,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56008,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.11,192.168.1.255,UDP,137,137,Unknown,None
+192.168.1.5,208.95.112.1,TCP,56008,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56060,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56060,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56060,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56060,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56548,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56546,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56546,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56548,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56548,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56548,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56548,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56548,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56548,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56549,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56549,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56549,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56549,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56548,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56548,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56549,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56549,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56549,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56550,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56549,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,56550,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56549,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56550,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56550,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56550,Error,🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56550,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56550,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56551,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56550,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56550,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56551,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56580,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56579,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56579,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56580,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56580,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56580,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56580,80,Error,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56580,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56580,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56580,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56581,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56581,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56581,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56581,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56580,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,56580,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56580,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56581,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56581,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56581,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56582,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56581,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,56582,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56581,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56582,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56582,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56582,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56582,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56582,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56583,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.1,192.168.1.255,UDP,40836,9995,Unknown,None
+192.168.1.5,208.95.112.1,TCP,56582,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56583,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56582,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,56583,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,56582,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56583,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56583,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56582,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56583,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56583,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56583,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56583,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56584,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56583,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,56583,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56583,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56584,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56584,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56584,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56584,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56584,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56584,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56585,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56584,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56584,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56585,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56585,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56585,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56585,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56585,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56585,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56586,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56585,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,56586,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56585,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56586,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56586,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56586,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56586,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56586,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56587,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56586,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56586,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56587,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56587,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56587,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56587,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56587,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56587,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56588,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56587,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,56588,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56587,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56588,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56588,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56588,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56588,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56588,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56589,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56589,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56589,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56589,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56588,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56588,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.4,224.0.0.251,UDP,5353,5353,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,56589,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56589,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56589,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56590,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56589,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,56590,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56589,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56590,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56590,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56590,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56590,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56590,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56591,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56590,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56590,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56591,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.1,224.0.0.1,Other,N/A,N/A,Unknown,None
+192.168.1.5,208.95.112.1,TCP,56591,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56591,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.1,224.0.0.1,Other,N/A,N/A,Unknown,None
+192.168.1.1,224.0.0.1,Other,N/A,N/A,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,56591,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56591,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56591,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56592,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56591,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56591,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56592,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56592,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56592,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56592,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56592,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56592,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56593,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56592,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,56593,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56592,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56593,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56593,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56593,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56593,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56593,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56594,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56593,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56593,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56594,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56594,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56594,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56594,Error,🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56594,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56594,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56595,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56595,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,56594,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56595,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56595,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56594,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56595,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56595,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56595,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56596,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.1,192.168.1.255,UDP,40836,9995,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,56595,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56595,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56596,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56596,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56596,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56596,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56596,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56596,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56597,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56596,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,56597,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56596,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56597,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56597,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56597,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56597,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56597,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56598,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56598,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56598,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56598,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56597,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56597,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56598,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56598,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56598,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56599,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56598,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56598,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56599,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56599,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56599,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56599,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56599,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56599,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56600,80,Error,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56599,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56599,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56600,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56600,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56600,80,Error,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56600,Error,🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,56600,Error,🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56600,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56600,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56601,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56601,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,56600,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56601,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56601,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56600,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56601,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56601,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56601,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56602,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56602,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,56601,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56602,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56601,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56602,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56602,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56602,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56602,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56603,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56603,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56603,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56603,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56602,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56602,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56603,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56603,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56603,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56604,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56603,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,56604,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56603,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56604,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56604,80,Error,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56604,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56604,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56604,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56605,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56604,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,56605,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56604,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56605,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56605,80,Error,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56605,Error,🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56605,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56605,80,Error,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56606,80,Error,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56606,Error,🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,56605,Error,🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56606,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56606,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56605,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56606,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56606,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56606,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56607,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56606,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56606,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56607,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56607,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56607,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56607,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56607,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56607,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56608,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56608,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56608,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56608,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56607,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56607,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56608,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56609,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56608,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56608,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56609,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56609,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56609,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.1,192.168.1.255,UDP,40836,9995,Unknown,None
+208.95.112.1,192.168.1.5,TCP,80,56609,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56609,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56609,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56610,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56609,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+208.95.112.1,192.168.1.5,TCP,80,56610,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56609,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56610,80,Unknown,🚨 Possible Port Scan Detected!
+192.168.1.5,208.95.112.1,TCP,56610,80,Unknown,🚨 Possible Port Scan Detected!
+208.95.112.1,192.168.1.5,TCP,80,56610,"✅ Normal IP - ISP: Total Uptime Technologies, LLC, Country: United States",🚨 Possible DDoS Attack Detected!
+192.168.1.5,208.95.112.1,TCP,56610,80,Unknown,🚨 Possible Port Scan Detected!
